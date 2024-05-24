@@ -4,7 +4,7 @@ import HomeComponent from './Components/HomeComponent';
 import QuizComponent from './Components/QuizComponent';
 import ResultComponent from './Components/ResultComponent';
 
-const CurrentComponentContext = createContext('home'); // Initial context value
+const CurrentComponentContext = createContext('home');
 
 function App() {
   const [currentComponent, setCurrentComponent] = useState('home');
