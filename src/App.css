@@ -1,0 +1,21 @@
+body {
+  background: #4a10d2; 
+}
+
+.homepageContainer {
+  text-align: center;
+  margin-top: 25%;
+  color: white;
+  font-size: 4em;
+}
+
+.playbtn {
+  color: white;
+  font-size: 4rem;
+  border-radius: 50px;
+  cursor: pointer;
+  width: 35rem;
+  background: rgb(207, 86, 29); 
+  border: 1px solid white;
+  padding: 30px;
+}
